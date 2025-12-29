@@ -1,0 +1,23 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "react app",
+  "homepage": "https://github.com/hshimlad/react-app#readme",
+  "bugs": {
+    "url": "https://github.com/hshimlad/react-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hshimlad/react-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
